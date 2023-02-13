@@ -53,7 +53,9 @@ menu ul li a{
     border-radius: 20px;
 }
 menu ul li a:hover{
-    color: rgb(253, 252, 252);
+    color: rgb(253, 252, 252);    
+    padding: 10px;
+    border-radius: 20px;
 }
 
 main{
